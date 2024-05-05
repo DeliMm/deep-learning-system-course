@@ -1,3 +1,12 @@
 [submodule "lab/hw0"]
 	path = lab/hw0
 	url = https://github.com/dlsyscourse/hw0.git
+[submodule "lab/hw1"]
+	path = lab/hw1
+	url = https://github.com/dlsyscourse/hw1.git
+[submodule "notes/lecture8"]
+	path = notes/lecture8
+	url = https://github.com/dlsyscourse/lecture8.git
+[submodule "lab/hw2"]
+	path = lab/hw2
+	url = https://github.com/dlsyscourse/hw2.git
