@@ -10,3 +10,6 @@
 [submodule "lab/hw2"]
 	path = lab/hw2
 	url = https://github.com/dlsyscourse/hw2.git
+[submodule "notes/lecture13"]
+	path = notes/lecture13
+	url = https://github.com/dlsyscourse/lecture14.git
