@@ -26,7 +26,7 @@ __global__ void VecaddKernel(float *A, float *B, float *C, int n){
     }
 }
 ```
-Vctor add host side
+Vctor and host side
 
 ```c++
 __global__ void VecaddKernel(float *A, float *B, float *C, int n){
