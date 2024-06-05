@@ -16,3 +16,6 @@
 [submodule "lab/hw3"]
 	path = lab/hw3
 	url = https://github.com/dlsyscourse/hw3.git
+[submodule "lab/hw4"]
+	path = lab/hw4
+	url = https://github.com/dlsyscourse/hw4.git
